@@ -12,6 +12,8 @@ namespace TestConsole
         {
 
             Console.WriteLine("vlad0 Commit");
+
+            Console.WriteLine("vlad0 second Commit");
         }
     }
 }
