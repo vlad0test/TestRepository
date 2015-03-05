@@ -11,6 +11,8 @@ namespace TestConsole
         static void Main(string[] args)
         {
             Console.WriteLine("First Commit");
+
+            Console.WriteLine("vlad0 Commit");
         }
     }
 }
