@@ -10,7 +10,12 @@ namespace TestConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First Commit");
+
+            Console.WriteLine("vlad0 Commit");
+
+            Console.WriteLine("vlad0 second Commit");
+
+            Console.WriteLine("vlad0 keeps pusing :)");
         }
     }
 }
